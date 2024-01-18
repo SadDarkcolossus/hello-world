@@ -1,0 +1,1 @@
+Este repositorio fue la primera vez que use gitr con comandos 
